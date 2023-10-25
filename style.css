@@ -1,0 +1,54 @@
+div {
+    margin: 0 auto;
+    max-width: 1280px;
+    border: 1px dashed red;
+    padding: 25px 50px;
+}
+
+img {width:auto}
+
+h1, h2, p {
+    font-family: 'ComicSansMS';
+}
+
+#alice {
+    height: 500px;
+
+}
+#hyeyoung {
+    height:300px;}
+
+#alyssa{
+    height:300px}
+
+    button {
+        color: purple;
+        border: 2px teal solid;
+        background-color: yellow;
+        border-radius: 50px;
+        padding: 15px;
+        font-weight: 600;
+        cursor: pointer;
+    }
+
+    button:hover {
+        background-color: purple;
+        color: yellow;
+        padding: 50px;
+        opacity: 0.5;
+    }
+
+    #gumdrop1 {
+        color: red;
+        background-color: orange;
+    }
+
+    #gumdrop2 {
+        color: yellow;
+        background-color: green;
+    }
+
+    #gumdrop3 {
+        color: blue;
+        background-color: purple;
+    }
